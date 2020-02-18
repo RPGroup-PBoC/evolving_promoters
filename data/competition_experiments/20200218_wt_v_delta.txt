@@ -1,0 +1,9 @@
+# Date : 2020-02-18
+# Equipment : N/A
+# Person: Suzy and Molly
+# Description :
+# Grew up Gore's wildtype and lac operon deletion strain overnight in LB (no antibiotic). Diluted
+# back to OD 0.0001 and competed in Gore's 0.05% glycerol + 0.2% lactose M9.
+# media. Plated periodically on MacConkey plates to detect competition between the strains.
+# Comments :
+# The counts at 7pm seem spuriously high. We aren't sure why.

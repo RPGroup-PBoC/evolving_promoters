@@ -2,9 +2,9 @@
 
 Project in the Rob Phillips group at Caltech.
 
-Lead: Suzy Beeler
-Collaborator: Molly Bassette
-PI: Rob Phillips
+Lead: Suzy Beeler  
+Collaborator: Molly Bassette  
+PI: Rob Phillips  
 
 ## Layout
 
