@@ -1,0 +1,10 @@
+# Date : 2020-02-17
+# Equipment : Plate reader
+# Person: Suzy and Molly
+# Description :
+# Grew up Gore's wildtype and lac operon deletion strain overnight in LB (no antibiotic). Diluted
+# back to OD 0.0001 and grew separately in Gore's 0.05% glycerol, 0.2% lactose M9 media,
+# or a combination of both. Monitored OD on a plate reader for ~24 hours to analyze growth
+# curves.
+# Comments :
+# Water added to well D8 instead of D9, so sample was added o well D9 instead of D8.
