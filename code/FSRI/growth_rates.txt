@@ -1,0 +1,4 @@
+binding energy (kBT),growth rate (per hr),strain
+-1.43,0.087,RandSeq3 unevolved
+-3.31,0.242,RandSeq3 evolved
+-4.04,0.341,RandSeq29
